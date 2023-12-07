@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="nobody.jpg">
 
 I am a final year computer science graduate student at CS.UTAH
 
