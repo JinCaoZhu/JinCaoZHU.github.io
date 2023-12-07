@@ -1,0 +1,12 @@
+/* This is just a basic example. You will need to expand this with your own styles. */
+.container {
+  max-width: 800px;
+  margin: auto;
+  padding: 1em;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #333;
+}
+
+/* Add more styles as needed */
