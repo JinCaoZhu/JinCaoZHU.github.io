@@ -17,6 +17,8 @@ Achieving High Computing Efficiency for vRAN with Uplink Workload Scheduler	(Sub
 
 Calibrating time-variant, device-specific phase noise for COTS WiFi devices
 
+Passive Hand Tracking with COTS WiFi
+
 A linear-complexity burst packing scheme for IEEE 802.16 e OFDMA downlink frames
 
 
