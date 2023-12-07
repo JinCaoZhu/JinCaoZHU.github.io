@@ -29,6 +29,9 @@ A linear-complexity burst packing scheme for IEEE 802.16 e OFDMA downlink frames
 4. Jiaxuan Mao,Jiao Zhou, Lianbo Zhang, Jincao Zhu, “Method and device for simulating user equipment thrown-in cell” China pattent App (Publication No. CN 101867940. Application No. CN 201010122116.4) 20-Oct-2010
 
 ## Teaching
+CSCI 2400: Computer Systems --Teaching Assitant
+
+CSCI 2270: Data structure --Teaching Assitant
 
 
 
