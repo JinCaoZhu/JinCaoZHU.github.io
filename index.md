@@ -11,6 +11,13 @@ Hi! I am a final year computer science graduate student at CS.UTAH
 
 ## Publications
 
+Hades: Hierarchical Adaptable Decoding for Efficient and elaStic vRAN (Submitted)
+
+Destreza: Achieving High Computing Efficiency for vRAN with Uplink Workload Scheduler	(Submitted)
+
+Calibrating time-variant, device-specific phase noise for COTS WiFi devices
+
+A linear-complexity burst packing scheme for IEEE 802.16 e OFDMA downlink frames
 
 
 
