@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Your Name
+title: JinCao ZHU
 ---
 
-# Your Name
 PhD student at XYZ University
 
 * Email: [your-email@example.com](mailto:your-email@example.com)
