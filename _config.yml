@@ -1,25 +1,12 @@
-remote_theme: ankitsultana/researcher@gem 
-title: JinCao ZHU
-#url: "https://ankitsultana.com"
-#baseurl: "/researcher"
+title: Your Site Title
+email: your-email@example.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write your site description here.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: johndoe
+github_username:  johndoe
 
+# Build settings
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
-
-tracking_id: #
-
-footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "jczhu"
-
-sass:
-    style: compressed
-    sass_dir: _sass
-
-nav:
- - name: "About"
-   link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
- - name: "Contact"
-   link: "contact"
+theme: minima
